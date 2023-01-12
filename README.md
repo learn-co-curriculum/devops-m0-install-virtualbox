@@ -1,4 +1,4 @@
-# Setup
+# 64-bit Setup
 
 If on a 64-bit processor (Windows, Intel Macs, Linux), follow this guide.
 
