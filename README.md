@@ -37,3 +37,4 @@ Going onto the next page, we get to set how much storage space we wish our guest
 Review the settings, and click `Finish` to finalize the setup.
 
 We are now ready to run our virtual machine and install **Ubuntu Server** on it! In order to launch, simply right-click the VM and click `Start`.
+
