@@ -14,7 +14,7 @@ You can [download VirtualBox here](https://www.virtualbox.org/). Once downloaded
 
 Once installed, go ahead and open the `VirtualBox Manager`. You should be greeted by screen similar to:
 
-![VirtualBox Manager](./virtualbox-manager.png)
+![VirtualBox Manager](https://curriculum-content.s3.amazonaws.com/6685/devops-m0-install-virtualbox/virtualbox-manager.png)
 
 Now we are ready to create our virtual machine! Click the `New` button or go to `Machine -> New` to begin the new machine wizard.
 
